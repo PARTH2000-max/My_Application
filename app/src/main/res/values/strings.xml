@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="brand_name">Choose a Brand Name</string>
+    <string name="cb1">Toyota</string>
+    <string name="cb2">Nissan</string>
+    <string name="cb3">BMW</string>
+    <string name="cb4">Honda</string>
+
+    <string name="colour">Choose a Colour</string>
+    <string name="cb5">White</string>
+    <string name="cb6">Black</string>
+    <string name="cb7">Red</string>
+    <string name="cb8">Silver</string>
+
+</resources>
